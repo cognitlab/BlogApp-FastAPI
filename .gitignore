@@ -1,0 +1,11 @@
+uploads/
+img/
+project/*.txt
+*.idea/
+.venv/
+alembic/
+*.ini
+*.db
+.vscode/
+.idea/
+.env
