@@ -26,12 +26,13 @@ cd BlogApp-FastAPI
 
 ### 2️⃣ Create & activate virtual environment
 python -m venv venv
+```
 # Activate venv:
 # Windows:
 venv\Scripts\activate
 # MacOS / Linux:
 source venv/bin/activate
-
+```
 ### 3️⃣ Install dependencies
 pip install -r requirements.txt
 ✅ Make sure FastAPI and Uvicorn are installed.
