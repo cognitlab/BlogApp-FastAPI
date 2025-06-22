@@ -44,22 +44,22 @@ pip install -r requirements.txt
 * ✅ Beginner-friendly codebase
 
 ### 🚀 Future Enhancements
-🛢 DB integration (SQLAlchemy / Tortoise ORM)
-🔑 Auth & user management
-🕵 Filtering, search, pagination
-📝 Markdown support for blog content
+* 🛢 DB integration (SQLAlchemy / Tortoise ORM)
+* 🔑 Auth & user management
+* 🕵 Filtering, search, pagination
+* 📝 Markdown support for blog content
 
 ### 💡 How to contribute
-👉 Fork this repo
-👉 Create a new branch: feature/your-feature-name
-👉 Submit a pull request
+* 👉 Fork this repo
+* 👉 Create a new branch: feature/your-feature-name
+* 👉 Submit a pull request
 
 ### 🤝 Let’s Connect
-🌐 Project by Cognit Labs
-📫 Feel free to contribute, star ⭐ and share!
+* 🌐 Project by Cognit Labs
+* 📫 Feel free to contribute, star ⭐ and share!
 
 ### 📌 Quick Links
-FastAPI Docs
-Uvicorn Docs
-Pydantic Docs
+* [FastAPI Docs](https://markdownlivepreview.com/)
+* Uvicorn Docs
+* Pydantic Docs
 
