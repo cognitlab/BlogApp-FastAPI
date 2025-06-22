@@ -19,10 +19,11 @@ This project lets you **Create**, **Read**, **Update**, and **Delete (CRUD)** bl
 Follow these steps to get started on your machine 👨‍💻
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/cognitlab/BlogApp-FastAPI.git
 cd BlogApp-FastAPI
 
+```
 2️⃣ Create & activate virtual environment
 python -m venv venv
 # Activate venv:
