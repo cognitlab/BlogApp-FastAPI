@@ -35,13 +35,13 @@ source venv/bin/activate
 ```
 ### 3️⃣ Install dependencies
 pip install -r requirements.txt
-✅ Make sure FastAPI and Uvicorn are installed.
+* ✅ Make sure FastAPI and Uvicorn are installed.
 
 ### 🌟 Features
-✅ Fully functional CRUD for blog posts
-✅ FastAPI Swagger UI for API exploration
-✅ Easily extendable to use databases (SQLite, PostgreSQL, etc.)
-✅ Beginner-friendly codebase
+* ✅ Fully functional CRUD for blog posts
+* ✅ FastAPI Swagger UI for API exploration
+* ✅ Easily extendable to use databases (SQLite, PostgreSQL, etc.)
+* ✅ Beginner-friendly codebase
 
 ### 🚀 Future Enhancements
 🛢 DB integration (SQLAlchemy / Tortoise ORM)
