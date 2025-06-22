@@ -23,8 +23,8 @@ Follow these steps to get started on your machine 👨‍💻
 git clone https://github.com/cognitlab/BlogApp-FastAPI.git
 cd BlogApp-FastAPI
 
-```
-2️⃣ Create & activate virtual environment
+
+###2️⃣ Create & activate virtual environment
 python -m venv venv
 # Activate venv:
 # Windows:
@@ -32,33 +32,33 @@ venv\Scripts\activate
 # MacOS / Linux:
 source venv/bin/activate
 
-3️⃣ Install dependencies
+###3️⃣ Install dependencies
 pip install -r requirements.txt
 ✅ Make sure FastAPI and Uvicorn are installed.
 
-🌟 Features
+###🌟 Features
 ✅ Fully functional CRUD for blog posts
 ✅ FastAPI Swagger UI for API exploration
 ✅ Easily extendable to use databases (SQLite, PostgreSQL, etc.)
 ✅ Beginner-friendly codebase
 
-🚀 Future Enhancements
+###🚀 Future Enhancements
 🛢 DB integration (SQLAlchemy / Tortoise ORM)
 🔑 Auth & user management
 🕵 Filtering, search, pagination
 📝 Markdown support for blog content
 
-💡 How to contribute
+###💡 How to contribute
 👉 Fork this repo
 👉 Create a new branch: feature/your-feature-name
 👉 Submit a pull request
 
-🤝 Let’s Connect
+###🤝 Let’s Connect
 🌐 Project by Cognit Labs
 📫 Feel free to contribute, star ⭐ and share!
 
-📌 Quick Links
+###📌 Quick Links
 FastAPI Docs
 Uvicorn Docs
 Pydantic Docs
-```
+
