@@ -59,7 +59,7 @@ pip install -r requirements.txt
 * 📫 Feel free to contribute, star ⭐ and share!
 
 ### 📌 Quick Links
-* [FastAPI Docs](https://markdownlivepreview.com/)
-* Uvicorn Docs
-* Pydantic Docs
+* [FastAPI Docs](https://fastapi.tiangolo.com/learn/)
+* [Uvicorn Docs](https://www.uvicorn.org/#quickstart)
+* [Pydantic Docs](https://docs.pydantic.dev/2.0/)
 
