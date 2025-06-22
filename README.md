@@ -58,8 +58,6 @@ pip install -r requirements.txt
 
 📌 Quick Links
 FastAPI Docs
-
 Uvicorn Docs
-
 Pydantic Docs
 ```
